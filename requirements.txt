@@ -1,0 +1,13 @@
+Required libraries and packages:
+
+mtcnn
+torch
+torchvision
+torchaudio
+torch-geometric
+opencv-python
+numpy
+scikit-learn
+pandas
+pillow
+streamlit
